@@ -1,9 +1,18 @@
+# 🎨 Awesome Vue.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-# 🎉 Awesome Vue.js [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <img src="vuejs_header.webp" alt="Vue.js Banner" width="100%" />
+</div>
+
+<h2 align="center">A Curated List of Awesome Resources, Libraries, and More for Vue.js</h2>
+
+<p align="center">
+  <em>Vue.js is a progressive JavaScript framework for building user interfaces. It is designed from the ground up to be incrementally adoptable, versatile, and maintainable. Whether you're building simple components or complex Single-Page Applications, Vue.js has the tools you need.</em>
+</p>
 
 
 ## 📚 Table of Contents
-- [🎉 Awesome Vue.js ](#-awesome-vuejs-)
+- [� Awesome Vue.js ](#-awesome-vuejs-)
   - [📚 Table of Contents](#-table-of-contents)
   - [🎨 Introduction](#-introduction)
     - [What is Vue.js?](#what-is-vuejs)
